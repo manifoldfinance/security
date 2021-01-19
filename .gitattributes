@@ -1,0 +1,10 @@
+*.yml    text
+.gitattributes text
+KEY      text
+LICENSE* text
+*.md     text
+
+
+# gpg related
+*.gpg filter=gpg diff=gpg
+*.asc filter=gpg diff=gpg
