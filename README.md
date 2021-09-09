@@ -7,6 +7,12 @@ vulnerability research and disclosure. This policy sets out our definition of
 good-faith in the context of finding and reporting vulnerabilities, as well as
 what you can expect from us in return.
 
+
+### Defects and Reporting Information
+
+[see https://github.com/manifoldfinance/pki#security-bug-handling-process](https://github.com/manifoldfinance/pki#security-bug-handling-process)
+
+
 ## Expectations
 
 When working with us, according to this policy, you can expect us to:
