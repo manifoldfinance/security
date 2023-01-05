@@ -205,6 +205,3 @@ This is not a competition, but rather an experimental and discretionary program.
 
 You are solely responsible for any applicable taxes, transaction fees, or other
 withholdings that arise from or relate to your participation in this program.
-
-Reports from individuals we are prohibited by law from paying are ineligible for
-awards.
