@@ -7,6 +7,20 @@ vulnerability research and disclosure. This policy sets out our definition of
 good-faith in the context of finding and reporting vulnerabilities, as well as
 what you can expect from us in return.
 
+## Encrypted Communication Methods
+
+Public Key Info for `sam@manifoldfinance.com`
+Public Fingerprint:
+
+```console
+EA82 E243 8E63 F4BD C4AB F453 F773 F8D6 A1A6 D802. 
+```
+This Fingerprint is unique to your public key. Share this so that your contacts can verify that they have the right key to encrypt for.
+
+[Encrypted Contact Page](https://flowcrypt.com/me/sammanifoldfinance)     
+[Public PGP Key](https://flowcrypt.com/pub/sam@manifoldfinance.com)
+
+FlowCrypt also provides an Attestation service, you can access that here: [https://flowcrypt.com/attester/](https://flowcrypt.com/attester/)
 
 ### Defects and Reporting Information
 
@@ -26,8 +40,8 @@ When working with us, according to this policy, you can expect us to:
 ## Official Channels
 
 Any vulnerability deemed to be in-scope, according to this policy, should be
-reported directly to this program through the Federacy platform. All
-communications between the researcher and program team regarding any reported
+reported directly to this program through the Encrypted Communciations Methods listed above.
+All communications between the researcher and program team regarding any reported
 vulnerability should be confined to the comments section of the corresponding
 report.
 
