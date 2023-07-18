@@ -1,0 +1,6 @@
+Contact: mailto:sam@manifoldfinance.com
+Contact: mailto:ops@manifoldfinance.com
+Contact: mailto:security@manifoldfinance.com
+Expires: 2025-09-15T07:59:00.000Z
+Encryption: https://flowcrypt.com/attester/pub/sam@manifoldfinance.com
+Preferred-Languages: en
